@@ -17,3 +17,8 @@ Second upload new branch to github
 
 Finally i will merge two branch
 """"""""""""""""
+
+First i will change the content in branch 'master'
+
+and then check branch 'test' if the content has changed
+""""""""""""""
