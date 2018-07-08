@@ -5,3 +5,15 @@ First I try to learn how to clone the git from Github
 
 Second I will new a file and update to Github
 """"""""""""""
+this is a test in June 28th
+
+First i will new a branch called"dev"
+
+and then new a new file "test_1.txt"
+
+put test_1.txt into branch dev
+
+Second upload new branch to github
+
+Finally i will merge two branch
+""""""""""""""""
