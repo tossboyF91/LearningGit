@@ -17,8 +17,17 @@ Second upload new branch to github
 
 Finally i will merge two branch
 """"""""""""""""
+<<<<<<< HEAD
 
 First i will change the content in branch 'master'
 
 and then check branch 'test' if the content has changed
 """"""""""""""
+=======
+This is a test in July 5th
+
+Now i will change this file and push master branch
+
+what i want to check if the content in the test branch will be change
+"""""""""""""""""
+>>>>>>> test_for_branch
